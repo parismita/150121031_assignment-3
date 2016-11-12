@@ -2,7 +2,7 @@
 
 used keras in theano
 
-text prediction using lstm
+text prediction using lstm\n
 the vocabulary is reduced from 93 char to 38 char using regex
 hence it learns only numbers, alphabets and space and newline char
 gives 64% aprox accuracy in 30-40 epoch
