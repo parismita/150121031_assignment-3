@@ -1,4 +1,4 @@
-# 150121031_assignment-3
+# Text-Generation-by-LSTM
 
 used keras in theano
 
